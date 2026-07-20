@@ -21,5 +21,7 @@ print(potter)
 weasley = Vault(25, 50, 100)
 print(weasley)
 
+silk = Vault(30, 40, 100)
+
 total = potter + weasley
 print(total)
